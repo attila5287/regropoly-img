@@ -1,4 +1,4 @@
-roundNo,itemPrice,medianPrice,regPol2,regLinFit,regLinFree,State,Type,itemIconStc,itemDesc,itemIconURL,itemPriceF,itemPriceF,itemPriceF,itemPriceF,itemPriceF
+roundNo,itemPrice,medianPrice,regPol2,regLinFit,regLinFree,State,Type,itemIconStc,itemDesc,itemIconURL,itemPriceF,medianPriceF,regPol2F,regLinFitF,regLinFreeF
 0,13593125.8,150283.3333,146192.85,137117,124473,CO,1B,static/img/1-4.png,Alluring one- bedroom in Colorado!,https://raw.githubusercontent.com/attila5287/pr3-RegroPoly-assets-herokuAPP/master/-4.png,"$135,931 ","$150,283 ","$146,193 ","$137,117 ","$124,473 "
 0,13905571.31,150283.3333,146192.85,137117,124473,CO,1B,static/img/1-5.png,Astonishing one- bedroom in Colorado!,https://raw.githubusercontent.com/attila5287/pr3-RegroPoly-assets-herokuAPP/master/-5.png,"$139,055 ","$150,283 ","$146,193 ","$137,117 ","$124,473 "
 0,14685543.29,150283.3333,146192.85,137117,124473,CO,1B,static/img/1-4.png,Breathtaking one- bedroom in Colorado!,https://raw.githubusercontent.com/attila5287/pr3-RegroPoly-assets-herokuAPP/master/-4.png,"$146,855 ","$150,283 ","$146,193 ","$137,117 ","$124,473 "
